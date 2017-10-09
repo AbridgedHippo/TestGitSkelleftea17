@@ -11,6 +11,7 @@ namespace GittingTestsDone
         static void Main(string[] args)
         {
             Console.WriteLine("Testar GitHub");
+            Console.ReadKey();
         }
     }
 }
